@@ -1,4 +1,5 @@
-// Для кнопки назад
+// Для кнопки личный каб
+
 import React from "react";
 import PropTypes from 'prop-types';
 import classNames from 'classNames';
